@@ -1,0 +1,49 @@
+# Thu, 23 Mar 2023 16:42:19 +0300
+timestamp = 1679578939
+
+[netvars]
+m_ArmorValue = 71628
+m_Collision = 800
+m_CollisionGroup = 1140
+m_Local = 12236
+m_aimPunchAngle = 12348
+m_bGunGameImmunity = 39312
+m_bHasDefuser = 71644
+m_bIsDefusing = 39292
+m_bIsScoped = 39284
+m_bSpotted = 2365
+m_bSpottedByMask = 2432
+m_dwBoneMatrix = 9896
+m_fAccuracyPenalty = 13120
+m_fFlags = 260
+m_flFlashDuration = 66672
+m_flFlashMaxAlpha = 66668
+m_flNextPrimaryAttack = 12872
+m_hActiveWeapon = 12040
+m_hOwnerEntity = 332
+m_iClip1 = 12916
+m_iCompetitiveRanking = 6788
+m_iCompetitiveWins = 7048
+m_iCrosshairId = 71720
+m_iGlowIndex = 66696
+m_iHealth = 256
+m_iItemDefinitionIndex = 12218
+m_iShotsFired = 66528
+m_iState = 12904
+m_iTeamNum = 244
+m_lifeState = 607
+m_nForceBone = 9868
+m_szLastPlaceName = 13764
+m_vecOrigin = 312
+m_vecVelocity = 276
+m_vecViewOffset = 264
+
+[signatures]
+dwClientState_GetLocalPlayer = 384
+dwClientState_Map = 652
+dwClientState_MapDirectory = 392
+dwClientState_State = 544
+dwEntityList = 81793060
+dwGameDir = 6532480
+dwPlayerResource = 52613584
+dwRadarBase = 86211324
